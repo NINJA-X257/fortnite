@@ -1,0 +1,27 @@
+body{
+background-image:url('pinata.jpg');
+background-size: cover;
+background-attachment: fixed;
+}
+.nav_menu{
+	overflow:hidden;
+}
+.nav_menu a{
+	float:right;
+	display:block;
+	color:#EB71EF;
+	padding:20px;
+	font-size:20px;
+	font-family:impact
+}
+.nav_menu a:hover{
+	color:#EB71EF;
+	background-color:#3D264A;
+	font-size:30px;
+}
+.columna, .columnb, .columnc{
+	float:left;
+	color:white;
+	padding:15px;
+	font-family:impact;
+}

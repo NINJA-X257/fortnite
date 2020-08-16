@@ -1,0 +1,28 @@
+body{
+	background-color:cyan;
+	font-family:impact;
+}
+	body{
+background-image:url('Fortnite-Season-9.jpg');
+background-size: cover;
+background-attachment: fixed;
+}
+.header{
+	color:cyan;
+	font-family:impact;
+}
+.nav_menu{
+	overflow:hidden;
+}
+.nav_menu a{
+	float:right;
+	display:block;
+	color:cyan;
+	padding:20px;
+	font-size:30px;
+}
+.nav_menu a:hover{
+	color:white;
+	background-color:cyan;
+	font-size:40px;
+}

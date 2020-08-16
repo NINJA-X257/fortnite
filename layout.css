@@ -1,0 +1,49 @@
+body{
+	background-color:cyan;
+	font-family:impact;
+}
+	body{
+background-image:url('fortnite-ch2.jpg');
+background-size: cover;
+background-attachment: fixed;
+}
+.header{
+	color:cyan;
+	font-family:impact;
+}
+.nav_menu{
+	overflow:hidden;
+}
+.nav_menu a{
+	float:right;
+	display:block;
+	color:white;
+	padding:20px;
+	font-size:20px;
+}
+.nav_menu a:hover{
+	color:#00BFFA;
+	background-color:white;
+	font-size:30px;
+}
+.columnA, .columnB, .columnC{
+	float:left;
+	width:30%;
+	color:black;
+	padding:15px;
+	text-align:justify;
+}
+.footer{
+	padding-top:750px;
+	text-align:center;
+}
+	.footer a{
+		background-color:white;
+	color:#00BFFA;
+	padding:10px;
+	font-size:20px
+	}
+	.fortnite-img{
+		margin-top:425px;
+		margin-left:350px;
+	}

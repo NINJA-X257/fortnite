@@ -1,0 +1,24 @@
+body{
+	background-color: black;
+	color:cyan
+}
+h1{
+	font-family:impact;
+	text-align: center;
+}
+.nav_menu{
+	overflow:hidden;
+}
+.nav_menu a{
+	float:right;
+	display:block;
+	color:cyan;
+	padding:20px;
+	font-size:20px;
+	font-family:impact
+}
+.nav_menu a:hover{
+	color:black;
+	background-color:cyan;
+	font-size:30px;
+}
